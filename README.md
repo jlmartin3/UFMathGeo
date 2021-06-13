@@ -12,7 +12,7 @@ Climate data for each county for each month from 2007 to 2018 was extracted from
 Nonlinear functions were created using temperature dependent vector trait data, these functions were either quadratic or Briere (a model proposed Briere 1999 for arthropod traits). We followed the methods of Mordecai 2017 in deciding which functions to use for each traits.   
  
 <p align="center"> 
-  <img width="40%" src="https://github.com/jlmartin3/UFMathGeo/blob/main/eq.png" />
+  <img width="33%" src="https://github.com/jlmartin3/UFMathGeo/blob/main/eq.png" />
 </p>
  
 Where 𝐸 is the number of eggs, 𝐴 is the number of adults, 𝑏 is the frequency of egg production in days, 𝑓 is the number of eggs produced, 𝑠 is the proportion of eggs that survive to become adults,  𝑣 is the daily rate of development from egg to adult, 𝑙 is the lifespan of an adult in days, and 𝑘 is the maximum number of eggs that can be supported. Parameters 𝑏, 𝑓, 𝑠, 𝑣, and 𝑙 are temperature dependent, and 𝑘 is precipitation dependent.  
