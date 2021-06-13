@@ -32,7 +32,7 @@ Forecasts provided by NOAA are in a peculiar format and must be converted into v
 Monthly PRISM data was combined with the converted NOAA forecasts. The initial conditions for 2019 modeling were taken from the previous model which stopped at December 2018. The same parameters were also used as the previous model. Again, data was downscaled from the monthly level to the daily level using linear interpolation. The modeled population number for next month was converted into a probability of detection using the detection curve created in step 1 
 
 
-References  
+## References  
 Briere JF, Pracros P, Le Roux AY, Pierre JS. A novel rate model of temperature-dependent development for arthropods. Environmental Entomology. 1999 Feb 1;28(1):22-9. 
 
 Mordecai EA, Cohen JM, Evans MV, Gudapati P, Johnson LR, Lippi CA, Miazgowicz K, Murdock CC, Rohr JR, Ryan SJ, Savage V. Detecting the impact of temperature on transmission of Zika, dengue, and chikungunya using mechanistic models. PLoS neglected tropical diseases. 2017 Apr 27;11(4):e0005568. 
