@@ -21,8 +21,7 @@ The time step for the model is daily so each day after January 1st, 2007 was con
 
 Output from each model was then compared to its respective count data. Count data was simplified to presence/absence data with 1 indicating presence and 0 indicating absence. The modeled population was aggregated back to the monthly level. For both species and each county the modeled population was compared to trapping attempts. A logistic function was fit, relating the modeled population size to the probability the mosquito was detected in a given month.
 
-
-#Step 2
+# Step 2
 
 The second step in this study is to predict the probability of both species being detected in each county 2 weeks in advance for each month in 2019 using climate forecasts and the previously fitted detection curves. 
 
